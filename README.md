@@ -53,7 +53,9 @@
 ![alt text for screen readers](/Image/Eq_state.png "Eq_state")
 Где коэффициенты A и B:
 ![alt text for screen readers](/Image/A_B.png "A_B")
+
 Для которых коэффициенты a, b:
+
 ![alt text for screen readers](/Image/A_B.png "a2_b2")
 
 Подробнее про их расчёт можно найти в документе: Cubic_Equation_of_State
